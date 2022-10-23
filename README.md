@@ -1,3 +1,3 @@
 # Leet-Code
-Leet code solutions
+Leet code solutions.
 My leetcode profile - https://leetcode.com/midhun98/
