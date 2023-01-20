@@ -7,3 +7,4 @@ class Solution:
             if heights[i] != sorted_height[i]:
                 count += 1
         return count
+# 
