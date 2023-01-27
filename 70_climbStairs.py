@@ -1,4 +1,3 @@
-
 class Solution:
     def climbStairs(self, n: int) -> int:
         n1 = 0
